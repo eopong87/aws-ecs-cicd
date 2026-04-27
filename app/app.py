@@ -35,7 +35,7 @@ def home():
         <body>
             <div class="container">
                 <h1>Eddie Opong</h1>
-                <h2>Cloud Engineer</h2>
+                <<h2>Cloud Engineer | AWS | Terraform | Docker</h2>
                 <p>Containerized Flask app running on AWS ECS Fargate</p>
                 <br>
                 <span class="badge">Docker</span>
